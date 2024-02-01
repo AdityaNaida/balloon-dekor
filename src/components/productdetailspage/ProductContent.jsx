@@ -162,8 +162,9 @@ const ProductContent = () => {
        </div>
 
       </div>
-      <SimilarPackages />
       <Reviews reviewSelector={reviewsContent}/>
+      <SimilarPackages />
+      
     </div>
     </>
   )

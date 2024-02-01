@@ -4,26 +4,6 @@ import styles from '@/components/productdetailspage/ProductDetails.module.css';
 const SimilarPackages = () => {
     const dynamicLinks=[
         {
-            img: "/dynamic-1.webp",
-            productName: "Baby Shower Neon Theme",
-            stars: "5.0",
-            price: "₹ 15000",
-            reviewsNumber: 3,
-            deliveryTime: "Today",
-            path: "/",
-            id: 101
-        },
-        {
-            img: "/dynamic-2.webp",
-            productName: "Light Proposal Decoration",
-            stars: "4.8",
-            price: "₹ 16000",
-            reviewsNumber: 23,
-            deliveryTime: "Today",
-            path: "/",
-            id: 102
-        },
-        {
             img: "/dynamic-3.webp",
             productName: "Marry me outdoor decoration",
             stars: "5.0",

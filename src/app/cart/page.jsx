@@ -1,7 +1,8 @@
+import Cartcontainer from "@/components/cartpage/Cartcontainer";
 const Cart=()=>{
     return (
         <>
-        <p>This is cart</p>
+      <Cartcontainer />
         </>
     )
 }
